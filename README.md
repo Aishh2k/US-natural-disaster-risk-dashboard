@@ -30,7 +30,3 @@ The technology used is Python-Flask backend to serve as a layer between the fron
 # EXECUTION
 Run 'python serve_dashboard.py' in the terminal, and watch the magic unfold! <br>
 A running instance should be hosted at http://localhost:8000
-
-# ONLINE HOSTED INSTANCES
-Please check out https://cse6242.online/ for accessing the dashboard.
-
