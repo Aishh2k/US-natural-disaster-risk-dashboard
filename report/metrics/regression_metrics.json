@@ -1,0 +1,58 @@
+{
+    "total_population_affected": {
+        "DecisionTree": {
+            "mae": 105.0,
+            "rmse": 129.0348790056394
+        },
+        "RandomForest": {
+            "mae": 460.125,
+            "rmse": 562.1348336920599
+        },
+        "XGBoost": {
+            "mae": 141.87319946289062,
+            "rmse": 192.54350157821477
+        }
+    },
+    "total_fatalities": {
+        "DecisionTree": {
+            "mae": 2.5,
+            "rmse": 2.5495097567963922
+        },
+        "RandomForest": {
+            "mae": 7.69,
+            "rmse": 9.017771343297634
+        },
+        "XGBoost": {
+            "mae": 2.999605178833008,
+            "rmse": 3.6050994783133454
+        }
+    },
+    "total_injuries": {
+        "DecisionTree": {
+            "mae": 4.0,
+            "rmse": 4.123105625617661
+        },
+        "RandomForest": {
+            "mae": 73.59,
+            "rmse": 81.71822930044435
+        },
+        "XGBoost": {
+            "mae": 10.833799362182617,
+            "rmse": 12.794604499431587
+        }
+    },
+    "total_socio_economic_loss": {
+        "DecisionTree": {
+            "mae": 322500.0,
+            "rmse": 425455.63811048504
+        },
+        "RandomForest": {
+            "mae": 4387950.0,
+            "rmse": 4864166.537547825
+        },
+        "XGBoost": {
+            "mae": 409359.435546875,
+            "rmse": 540706.0345197632
+        }
+    }
+}

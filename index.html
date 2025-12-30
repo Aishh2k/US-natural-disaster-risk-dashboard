@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Disaster Dashboard</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <div class="app-container">
+        <header>
+            <h1>United States Disaster Dashboard</h1>
+            <div class="controls">
+
+                <!-- Dataset selector: NOAA vs NRI -->
+                <div class="control-group">
+                    <label for="view-metric">Dataset:</label>
+                    <select id="view-metric">
+                        <option value="historical">Historical Loss Database (NOAA)</option>
+                        <option value="projections">Predictions in next 12 months</option>
+                        <option value="risk_composite">FEMA National Risk Index - Socio-Economic</option>
+                    </select>
+                </div>
+
+                <!-- NOAA metric toggle -->
+                <div class="control-group" id="noaa-metric-toggle">
+                    <label>NOAA Metric:</label>
+                    <label style="margin-left: 4px;">
+                        <input type="radio" name="noaa-metric" value="loss" checked>
+                        Economic
+                    </label>
+                    <label style="margin-left: 8px;">
+                        <input type="radio" name="noaa-metric" value="fatalities">
+                        Human-centered
+                    </label>
+                </div>
+
+                <!-- Year slider -->
+                <div class="control-group" id="year-control">
+                    <label for="year-slider">Year: <span id="year-display">2000</span></label>
+                    <input type="range" id="year-slider" min="2000" max="2024" value="2024">
+                </div>
+
+                <!-- AI Chatbot Button -->
+                <button id="chatbot-toggle" class="chatbot-btn" style="display: none;">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                    AI Assistant
+                </button>
+
+            </div>
+        </header>
+
+
+        <!-- TOP ROW: Map + Sidebar -->
+        <div class="top-row">
+            <div id="map-container">
+                <div id="map"></div>
+                <div id="legend" class="legend"></div>
+            </div>
+
+            <aside id="sidebar">
+                <!-- NOAA Filters -->
+                <div class="panel" id="filters-panel" style="display: none;">
+                    <h2>Event Filters</h2>
+                    <div class="control-group" style="margin-bottom: 5px;">
+                        <input type="checkbox" id="select-all-events" checked>
+                        <label for="select-all-events" style="font-size: 0.9em; cursor: pointer;">Select All</label>
+                    </div>
+                    <div id="event-filter-dropdown" class="multiselect-dropdown"></div>
+                </div>
+
+                <div class="panel" id="state-info">
+                    <h2>State Details</h2>
+                    <p class="instruction">Hover over a state to see details.</p>
+                    <div id="details-content" style="display: none;">
+                        <h3 id="state-name">State Name</h3>
+
+                        <div id="risk-metrics"
+                            style="margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #444;">
+                            <p><strong>Risk Rating:</strong> <span id="risk-rating">-</span></p>
+                            <p><strong>Social Vulnerability:</strong> <span id="sovi-score">-</span></p>
+                            <p><strong>Resilience:</strong> <span id="resl-score">-</span></p>
+                        </div>
+
+                        <p><strong>Loss:</strong> <span id="state-loss">0</span></p>
+                        <p id="fatalities-row"><strong>Fatalities:</strong> <span id="state-fatalities">0</span></p>
+
+                        <div id="noaa-details">
+                            <p><strong>Top Events:</strong></p>
+                            <ul id="state-events"></ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel" id="safety-suggestions" style="margin-top: 8px;">
+                    <h2>Safety Tips</h2>
+                    <ul id="safety-list"></ul>
+                </div>
+
+                <!-- NOAA Prediction -->
+                <div class="panel" id="prediction-panel">
+                    <h2>2025 Prediction</h2>
+                    <div id="prediction-content">
+                        <p><strong>Projected Loss:</strong> <span id="pred-loss">-</span></p>
+                        <p><strong>Projected Fatalities:</strong> <span id="pred-fatalities">-</span></p>
+                        <p class="note">Based on linear regression of 2000-2024 data.</p>
+                    </div>
+                </div>
+
+                <!-- NRI Radar Chart (Sidebar) -->
+                <div class="panel" id="nri-radar-panel" style="display: none;">
+                    <h2>Risk Profile</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="nri-radar-chart"></canvas>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+        <!-- BOTTOM ROW: NOAA Charts ONLY -->
+        <div class="bottom-row" id="analytics-row" style="display: none;">
+            <div class="chart-col">
+                <div class="panel h-100">
+                    <h2>Monthly Loss Trend</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="monthly-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-col">
+                <div class="panel h-100">
+                    <h2>Event Type Distribution</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="event-dist-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-col">
+                <div class="panel h-100">
+                    <h2>Historical Context</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="benchmark-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- BOTTOM ROW: NRI Charts ONLY -->
+        <div class="bottom-row" id="nri-analytics-row" style="display: none;">
+            <div class="chart-col">
+                <div class="panel h-100">
+                    <h2>Risk Quadrant</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="risk-quadrant-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-col">
+                <div class="panel h-100">
+                    <h2>Social Damage Susceptibility</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="equity-gap-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="chart-col">
+                <div class="panel h-100">
+                    <h2>Risk Efficiency</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="risk-efficiency-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- AI Chatbot Panel -->
+    <div id="chatbot-panel" class="chatbot-panel">
+        <div class="chatbot-header">
+            <h3>🤖 AI Assistant</h3>
+            <p>Ask me about 2025 disaster projections</p>
+            <button id="chatbot-close" class="chatbot-close-btn">✕</button>
+        </div>
+        <div id="chatbot-messages" class="chatbot-messages">
+            <div class="chat-message bot-message">
+                Hello! I'm your AI assistant for the 2025 disaster projections. Ask me anything!
+            </div>
+        </div>
+        <div class="chatbot-input-area">
+            <input type="text" id="chatbot-input" placeholder="Ask about 2025 predictions..." />
+            <button id="chatbot-send">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- App Logic -->
+    <script src="app.js?v=projections_fixed_v3"></script>
+</body>
+
+</html>

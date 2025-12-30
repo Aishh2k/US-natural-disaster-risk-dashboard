@@ -1,0 +1,898 @@
+{
+  "Alabama": {
+    "risk_score": 56.04262363388024,
+    "sovi_score": 52.151110743816496,
+    "resl_score": 46.13904557511376,
+    "eal_total": 1284654551.2106535,
+    "hazards": {
+      "Riverine Flooding": 61879600.9885347,
+      "Hurricane": 606722302.4160175,
+      "Wildfire": 6613484.112881175,
+      "Earthquake": 51361491.60000013,
+      "Tornado": 170058487.2324037,
+      "Coastal Flooding": -12017218.088049503,
+      "Strong Wind": 14280354.059087345,
+      "Hail": 4128587.32697208
+    }
+  },
+  "Alaska": {
+    "risk_score": 68.73903373518066,
+    "sovi_score": 59.1112433675333,
+    "resl_score": 29.175028269731598,
+    "eal_total": 243790516.41653642,
+    "hazards": {
+      "Riverine Flooding": 6309409.434387242,
+      "Hurricane": -3539646.0,
+      "Wildfire": 24335030.45471096,
+      "Earthquake": 120717305.69999999,
+      "Tornado": 737.9294675416642,
+      "Coastal Flooding": -230718.87693855492,
+      "Strong Wind": 33.06682129108294,
+      "Hail": 15401.082478368235
+    }
+  },
+  "Arizona": {
+    "risk_score": 23.378159008095615,
+    "sovi_score": 53.42724076365972,
+    "resl_score": 18.987512533007635,
+    "eal_total": 521950973.72818506,
+    "hazards": {
+      "Riverine Flooding": 23232017.813843932,
+      "Hurricane": -3956320.1331776604,
+      "Wildfire": 194598859.28956062,
+      "Earthquake": 86094927.50000001,
+      "Tornado": 3801618.672112313,
+      "Coastal Flooding": -17648235.0,
+      "Strong Wind": 6088983.018290474,
+      "Hail": 10978224.914376847
+    }
+  },
+  "Arkansas": {
+    "risk_score": 68.63458114988262,
+    "sovi_score": 55.82802965864101,
+    "resl_score": 29.787643015313098,
+    "eal_total": 807875898.7537506,
+    "hazards": {
+      "Riverine Flooding": 41727999.32773739,
+      "Hurricane": 8932726.829152338,
+      "Wildfire": 21890822.889677085,
+      "Earthquake": 116006021.79999986,
+      "Tornado": 81854057.00006054,
+      "Coastal Flooding": -8229177.0,
+      "Strong Wind": 21313589.224986,
+      "Hail": 26241564.35789589
+    }
+  },
+  "California": {
+    "risk_score": 73.9666241942101,
+    "sovi_score": 58.802399077765195,
+    "resl_score": 33.355249347569035,
+    "eal_total": 16344919094.901136,
+    "hazards": {
+      "Riverine Flooding": 328955646.8461791,
+      "Hurricane": -156157999.10822386,
+      "Wildfire": 1418728908.673324,
+      "Earthquake": 9614543798.000004,
+      "Tornado": 35400517.09087281,
+      "Coastal Flooding": -11906174.45823625,
+      "Strong Wind": 834192.0965248088,
+      "Hail": 2904528.3425290226
+    }
+  },
+  "Colorado": {
+    "risk_score": 43.280277391257385,
+    "sovi_score": 38.959790984563725,
+    "resl_score": 50.16983428922362,
+    "eal_total": 864165952.882728,
+    "hazards": {
+      "Riverine Flooding": 75925574.73867132,
+      "Hurricane": -28937106.0,
+      "Wildfire": 112138076.68425462,
+      "Earthquake": 11918689.900000002,
+      "Tornado": 109363981.51339602,
+      "Coastal Flooding": -14468553.0,
+      "Strong Wind": 9701459.126262872,
+      "Hail": 271836531.381421
+    }
+  },
+  "Connecticut": {
+    "risk_score": 34.493511007528774,
+    "sovi_score": 43.66038667124893,
+    "resl_score": 67.67193250256175,
+    "eal_total": 338817338.1192943,
+    "hazards": {
+      "Riverine Flooding": 3164332.802336097,
+      "Hurricane": 237567193.16318092,
+      "Wildfire": 214169.05225010077,
+      "Earthquake": 6323923.3999999985,
+      "Tornado": 16170771.419359863,
+      "Coastal Flooding": 16458297.64245579,
+      "Strong Wind": 2129571.5806504227,
+      "Hail": 141197.46851612144
+    }
+  },
+  "Delaware": {
+    "risk_score": 40.75646970214851,
+    "sovi_score": 45.04692087250509,
+    "resl_score": 65.42181583537906,
+    "eal_total": 132001083.76740795,
+    "hazards": {
+      "Riverine Flooding": 4722268.864026829,
+      "Hurricane": 69648547.27229701,
+      "Wildfire": 1856399.5186033375,
+      "Earthquake": 2096408.5000000005,
+      "Tornado": 4735098.571331357,
+      "Coastal Flooding": 22787350.79245459,
+      "Strong Wind": 1936484.260611837,
+      "Hail": 481139.933103438
+    }
+  },
+  "District Of Columbia": {
+    "risk_score": 15.314826249012183,
+    "sovi_score": 49.64883506707388,
+    "resl_score": 65.87000274660019,
+    "eal_total": 50896637.05852307,
+    "hazards": {
+      "Riverine Flooding": 9477225.460339215,
+      "Hurricane": 12463479.399341736,
+      "Wildfire": 26629.69034350593,
+      "Earthquake": 2523465.3999999994,
+      "Tornado": 5908649.528272458,
+      "Coastal Flooding": 631913.9229634393,
+      "Strong Wind": 1892065.2174323446,
+      "Hail": 11812.385741566524
+    }
+  },
+  "Florida": {
+    "risk_score": 78.40715139615314,
+    "sovi_score": 53.72445823774844,
+    "resl_score": 24.999923554741677,
+    "eal_total": 9093861692.538715,
+    "hazards": {
+      "Riverine Flooding": 151533418.08557665,
+      "Hurricane": 7331275076.7135,
+      "Wildfire": 268222548.32465124,
+      "Earthquake": 13047461.799999991,
+      "Tornado": 171981073.1647725,
+      "Coastal Flooding": 26882584.4691619,
+      "Strong Wind": 18733950.074609693,
+      "Hail": 974579.8261035082
+    }
+  },
+  "Georgia": {
+    "risk_score": 39.954511099776624,
+    "sovi_score": 51.43429628228776,
+    "resl_score": 32.56475826515917,
+    "eal_total": 1541213261.8832464,
+    "hazards": {
+      "Riverine Flooding": 32313931.371167924,
+      "Hurricane": 722141197.8891981,
+      "Wildfire": 21354305.041984588,
+      "Earthquake": 87225230.2,
+      "Tornado": 185185687.6461405,
+      "Coastal Flooding": -24653576.260181375,
+      "Strong Wind": 15470201.362787003,
+      "Hail": 65774717.141158774
+    }
+  },
+  "Hawaii": {
+    "risk_score": 29.83603344120737,
+    "sovi_score": 45.5093562258734,
+    "resl_score": 64.70439073412136,
+    "eal_total": 267385695.07768327,
+    "hazards": {
+      "Riverine Flooding": 15471019.887767823,
+      "Hurricane": 23603292.34106507,
+      "Wildfire": 34123752.23722055,
+      "Earthquake": 126956001.90000026,
+      "Tornado": 461595.9017479915,
+      "Coastal Flooding": 1737766.396632308,
+      "Strong Wind": 3789.6652174437186,
+      "Hail": 14737.110933857373
+    }
+  },
+  "Idaho": {
+    "risk_score": 31.562108563638343,
+    "sovi_score": 43.21627182134431,
+    "resl_score": 47.379123815702094,
+    "eal_total": 229609591.6139611,
+    "hazards": {
+      "Riverine Flooding": 6013059.451443021,
+      "Hurricane": -9119088.0,
+      "Wildfire": 116217620.92851672,
+      "Earthquake": 26897999.9,
+      "Tornado": 1373987.430683354,
+      "Coastal Flooding": -4559544.0,
+      "Strong Wind": 1453475.3916778085,
+      "Hail": 1256077.0258618554
+    }
+  },
+  "Illinois": {
+    "risk_score": 47.86283244003052,
+    "sovi_score": 47.37898157038354,
+    "resl_score": 70.55579751164913,
+    "eal_total": 1819762881.4960701,
+    "hazards": {
+      "Riverine Flooding": 81994478.6892881,
+      "Hurricane": 3546539.498968957,
+      "Wildfire": 1030303.5444249107,
+      "Earthquake": 178825027.80000043,
+      "Tornado": 333923418.89538664,
+      "Coastal Flooding": -17658216.27194783,
+      "Strong Wind": 65398321.60288593,
+      "Hail": 70572880.52805232
+    }
+  },
+  "Indiana": {
+    "risk_score": 41.382238967086955,
+    "sovi_score": 45.81943057221599,
+    "resl_score": 64.94342573499824,
+    "eal_total": 789868764.5192717,
+    "hazards": {
+      "Riverine Flooding": 55701529.89903396,
+      "Hurricane": 3479021.2420442877,
+      "Wildfire": 1675361.9416796998,
+      "Earthquake": 87361506.40000008,
+      "Tornado": 194099992.53325748,
+      "Coastal Flooding": -14836110.855852576,
+      "Strong Wind": 38332044.26270688,
+      "Hail": 29129813.907600045
+    }
+  },
+  "Iowa": {
+    "risk_score": 60.61792149627079,
+    "sovi_score": 38.7193693833166,
+    "resl_score": 84.31932976628629,
+    "eal_total": 842020736.8045642,
+    "hazards": {
+      "Riverine Flooding": 109927393.82532072,
+      "Hurricane": -3227318.494851806,
+      "Wildfire": 2651728.9564526957,
+      "Earthquake": 3314986.8999999985,
+      "Tornado": 170277550.703334,
+      "Coastal Flooding": -8959104.0,
+      "Strong Wind": 102018222.65502626,
+      "Hail": 70138606.70189011
+    }
+  },
+  "Kansas": {
+    "risk_score": 60.28823076018746,
+    "sovi_score": 45.88553895005419,
+    "resl_score": 64.14893818779056,
+    "eal_total": 732260867.1622247,
+    "hazards": {
+      "Riverine Flooding": 27942072.55622711,
+      "Hurricane": -11483174.740546124,
+      "Wildfire": 19167698.210903455,
+      "Earthquake": 6528296.300000003,
+      "Tornado": 123900433.51998055,
+      "Coastal Flooding": -8289171.0,
+      "Strong Wind": 55127565.27085569,
+      "Hail": 96798105.06647587
+    }
+  },
+  "Kentucky": {
+    "risk_score": 50.32638995473381,
+    "sovi_score": 47.43928122028295,
+    "resl_score": 46.413682266656494,
+    "eal_total": 796764486.3615159,
+    "hazards": {
+      "Riverine Flooding": 71241945.10688977,
+      "Hurricane": 5616896.294018039,
+      "Wildfire": 17229518.095536426,
+      "Earthquake": 110538152.59999979,
+      "Tornado": 108061750.01347944,
+      "Coastal Flooding": -13058694.0,
+      "Strong Wind": 46303033.385440156,
+      "Hail": 16789463.305496354
+    }
+  },
+  "Louisiana": {
+    "risk_score": 75.48319172025244,
+    "sovi_score": 55.9958284026062,
+    "resl_score": 60.76983987617451,
+    "eal_total": 2584501882.772205,
+    "hazards": {
+      "Riverine Flooding": 492671630.9762066,
+      "Hurricane": 1363267263.5804205,
+      "Wildfire": 11811482.59122907,
+      "Earthquake": 11499170.600000001,
+      "Tornado": 64887289.044101365,
+      "Coastal Flooding": 52688157.85401475,
+      "Strong Wind": 14637007.703047158,
+      "Hail": 7409653.058913604
+    }
+  },
+  "Maine": {
+    "risk_score": 38.11554904152936,
+    "sovi_score": 41.01182492621197,
+    "resl_score": 78.35390033723355,
+    "eal_total": 165576781.03762308,
+    "hazards": {
+      "Riverine Flooding": 8607737.554691771,
+      "Hurricane": 92508412.64912514,
+      "Wildfire": 534474.7460757691,
+      "Earthquake": 6851201.8,
+      "Tornado": 1206551.7364782016,
+      "Coastal Flooding": 9204577.696640868,
+      "Strong Wind": 198088.22031358685,
+      "Hail": 198794.00527378483
+    }
+  },
+  "Maryland": {
+    "risk_score": 38.02842273226791,
+    "sovi_score": 43.05280213197604,
+    "resl_score": 62.43951561771631,
+    "eal_total": 671436153.0590982,
+    "hazards": {
+      "Riverine Flooding": 11546931.157151526,
+      "Hurricane": 402533168.2782543,
+      "Wildfire": 5254741.166135687,
+      "Earthquake": 6171032.299999985,
+      "Tornado": 20941136.685616627,
+      "Coastal Flooding": 36644823.568967216,
+      "Strong Wind": 8743545.127209902,
+      "Hail": 1359619.5439961588
+    }
+  },
+  "Massachusetts": {
+    "risk_score": 32.074140361548054,
+    "sovi_score": 42.02818328002875,
+    "resl_score": 88.49900188788598,
+    "eal_total": 603561961.9106501,
+    "hazards": {
+      "Riverine Flooding": 17509579.99759143,
+      "Hurricane": 419320443.26559037,
+      "Wildfire": 1569095.2960565006,
+      "Earthquake": 21642263.799999967,
+      "Tornado": 26172110.04601601,
+      "Coastal Flooding": 14042194.825102147,
+      "Strong Wind": 811728.0430083789,
+      "Hail": 170801.12690524434
+    }
+  },
+  "Michigan": {
+    "risk_score": 25.86893339062686,
+    "sovi_score": 44.583042577823164,
+    "resl_score": 71.6988963570501,
+    "eal_total": 838871997.0118,
+    "hazards": {
+      "Riverine Flooding": 66864745.5275037,
+      "Hurricane": 3500949.32499661,
+      "Wildfire": 4906670.356090873,
+      "Earthquake": 9112571.500000006,
+      "Tornado": 210260778.6194027,
+      "Coastal Flooding": -12680991.055592548,
+      "Strong Wind": 109464926.31163773,
+      "Hail": 22372337.5718771
+    }
+  },
+  "Minnesota": {
+    "risk_score": 42.28120612051736,
+    "sovi_score": 38.69225319150187,
+    "resl_score": 93.22472054471628,
+    "eal_total": 790662820.267294,
+    "hazards": {
+      "Riverine Flooding": 42624812.92336688,
+      "Hurricane": -29934851.58837556,
+      "Wildfire": 34925847.17093306,
+      "Earthquake": 611861.1999999993,
+      "Tornado": 167348001.21935594,
+      "Coastal Flooding": -14208579.0,
+      "Strong Wind": 117270446.04781964,
+      "Hail": 65289697.25227993
+    }
+  },
+  "Mississippi": {
+    "risk_score": 71.73910750810433,
+    "sovi_score": 59.34105145452705,
+    "resl_score": 38.28002322449073,
+    "eal_total": 996174648.600821,
+    "hazards": {
+      "Riverine Flooding": 48257593.0048007,
+      "Hurricane": 408174574.52690977,
+      "Wildfire": 16661711.180505635,
+      "Earthquake": 69937011.20000008,
+      "Tornado": 101006703.66869149,
+      "Coastal Flooding": 2923569.8123940565,
+      "Strong Wind": 19107397.955894135,
+      "Hail": 21993708.478529807
+    }
+  },
+  "Missouri": {
+    "risk_score": 62.25575133033505,
+    "sovi_score": 46.30983438661257,
+    "resl_score": 54.53841579142832,
+    "eal_total": 1471283790.9388547,
+    "hazards": {
+      "Riverine Flooding": 75929102.05621468,
+      "Hurricane": -4976298.6417019265,
+      "Wildfire": 14051051.264724385,
+      "Earthquake": 188475786.09999976,
+      "Tornado": 170683195.6394578,
+      "Coastal Flooding": -16538346.0,
+      "Strong Wind": 41796460.05305159,
+      "Hail": 87811652.49829936
+    }
+  },
+  "Montana": {
+    "risk_score": 48.083104084987845,
+    "sovi_score": 41.607147368146165,
+    "resl_score": 46.88413820296359,
+    "eal_total": 207667804.68449035,
+    "hazards": {
+      "Riverine Flooding": 10897776.735595126,
+      "Hurricane": -6379362.0,
+      "Wildfire": 53769488.47153311,
+      "Earthquake": 32379082.400000025,
+      "Tornado": 2519615.2825981127,
+      "Coastal Flooding": -3189681.0,
+      "Strong Wind": 2737263.299694176,
+      "Hail": 3975187.564117149
+    }
+  },
+  "Nebraska": {
+    "risk_score": 65.53936362989718,
+    "sovi_score": 41.767269372479355,
+    "resl_score": 67.34047080596015,
+    "eal_total": 645839919.0921711,
+    "hazards": {
+      "Riverine Flooding": 40388004.23533761,
+      "Hurricane": -11058894.0,
+      "Wildfire": 4719995.5553059,
+      "Earthquake": 1082387.5999999999,
+      "Tornado": 115505049.1927649,
+      "Coastal Flooding": -5529447.0,
+      "Strong Wind": 52953171.89079307,
+      "Hail": 176159633.64046255
+    }
+  },
+  "Nevada": {
+    "risk_score": 61.084721342063105,
+    "sovi_score": 55.87087239012315,
+    "resl_score": 12.837496730511525,
+    "eal_total": 797655348.798953,
+    "hazards": {
+      "Riverine Flooding": 74762128.95625226,
+      "Hurricane": -15498450.0,
+      "Wildfire": 109559094.82630692,
+      "Earthquake": 297403324.50000006,
+      "Tornado": 189149.47179999814,
+      "Coastal Flooding": -7749225.0,
+      "Strong Wind": 217082.4278902483,
+      "Hail": 922021.2663905319
+    }
+  },
+  "New Hampshire": {
+    "risk_score": 34.28141943596555,
+    "sovi_score": 32.7215758438673,
+    "resl_score": 69.77011446147117,
+    "eal_total": 136839223.24504536,
+    "hazards": {
+      "Riverine Flooding": 9169931.686333572,
+      "Hurricane": 65854436.7168093,
+      "Wildfire": 965736.336722264,
+      "Earthquake": 6932149.599999993,
+      "Tornado": 5107420.283281579,
+      "Coastal Flooding": -677985.4462923808,
+      "Strong Wind": 705356.1810170838,
+      "Hail": 67935.50957515555
+    }
+  },
+  "New Jersey": {
+    "risk_score": 42.647655195376956,
+    "sovi_score": 46.86465761655403,
+    "resl_score": 58.64067994742795,
+    "eal_total": 1622538457.0870378,
+    "hazards": {
+      "Riverine Flooding": 122841321.4045489,
+      "Hurricane": 424975174.87480956,
+      "Wildfire": 24772235.288591206,
+      "Earthquake": 24277052.100000024,
+      "Tornado": 35557147.19751411,
+      "Coastal Flooding": 603220990.7092246,
+      "Strong Wind": 84659471.87121005,
+      "Hail": 1469745.5117268239
+    }
+  },
+  "New Mexico": {
+    "risk_score": 33.21840318679883,
+    "sovi_score": 62.999534223480204,
+    "resl_score": 19.2000984086623,
+    "eal_total": 265150396.69257718,
+    "hazards": {
+      "Riverine Flooding": 12405780.266802238,
+      "Hurricane": -8573432.295292132,
+      "Wildfire": 92655820.7357216,
+      "Earthquake": 41071469.700000055,
+      "Tornado": 4916369.368909217,
+      "Coastal Flooding": -6119388.0,
+      "Strong Wind": 2091814.8718766272,
+      "Hail": 6051282.097082927
+    }
+  },
+  "New York": {
+    "risk_score": 24.33192072514769,
+    "sovi_score": 52.94368310738987,
+    "resl_score": 51.959928915354745,
+    "eal_total": 1391898968.3066967,
+    "hazards": {
+      "Riverine Flooding": 160410273.56977096,
+      "Hurricane": 593896305.6040876,
+      "Wildfire": 2329191.496706491,
+      "Earthquake": 45352980.10000014,
+      "Tornado": 41722226.6039989,
+      "Coastal Flooding": 48995289.97479459,
+      "Strong Wind": 13680125.782750785,
+      "Hail": 3099373.563921143
+    }
+  },
+  "North Carolina": {
+    "risk_score": 46.17560466356347,
+    "sovi_score": 53.46731675511573,
+    "resl_score": 40.88257137464877,
+    "eal_total": 2502437158.1453776,
+    "hazards": {
+      "Riverine Flooding": 90380779.22983713,
+      "Hurricane": 1708569872.324516,
+      "Wildfire": 19518398.87369453,
+      "Earthquake": 36132595.29999999,
+      "Tornado": 137698231.38301086,
+      "Coastal Flooding": -12962031.424394077,
+      "Strong Wind": 19059862.57027933,
+      "Hail": 16727611.288614238
+    }
+  },
+  "North Dakota": {
+    "risk_score": 71.49419057323071,
+    "sovi_score": 38.13421051019443,
+    "resl_score": 71.4388154232813,
+    "eal_total": 319943038.32103986,
+    "hazards": {
+      "Riverine Flooding": 47837797.41488802,
+      "Hurricane": -4559544.0,
+      "Wildfire": 12693539.98391865,
+      "Earthquake": 132310.9,
+      "Tornado": 29156980.734601445,
+      "Coastal Flooding": -2279772.0,
+      "Strong Wind": 38295229.1077199,
+      "Hail": 29821867.011267122
+    }
+  },
+  "Ohio": {
+    "risk_score": 21.062584372291866,
+    "sovi_score": 43.282547735076925,
+    "resl_score": 75.49204325299729,
+    "eal_total": 753524680.6479639,
+    "hazards": {
+      "Riverine Flooding": 90287891.77957778,
+      "Hurricane": 13526841.274118688,
+      "Wildfire": 3290002.3009980917,
+      "Earthquake": 32917323.999999955,
+      "Tornado": 200201005.23448348,
+      "Coastal Flooding": -22463664.375260156,
+      "Strong Wind": 45643225.35459183,
+      "Hail": 53706500.541242294
+    }
+  },
+  "Oklahoma": {
+    "risk_score": 62.51892365267699,
+    "sovi_score": 56.69249167751257,
+    "resl_score": 33.205361635008444,
+    "eal_total": 928378651.6979432,
+    "hazards": {
+      "Riverine Flooding": 17733707.542947844,
+      "Hurricane": 2471066.116772261,
+      "Wildfire": 73325715.14418916,
+      "Earthquake": 24532484.200000025,
+      "Tornado": 118131418.94034475,
+      "Coastal Flooding": -12048795.0,
+      "Strong Wind": 18607229.12625307,
+      "Hail": 112907044.0061887
+    }
+  },
+  "Oregon": {
+    "risk_score": 70.96497909590605,
+    "sovi_score": 53.3496730022831,
+    "resl_score": 53.01845077609366,
+    "eal_total": 1431970489.7963724,
+    "hazards": {
+      "Riverine Flooding": 60431542.40930207,
+      "Hurricane": -19878012.0,
+      "Wildfire": 66553582.29660164,
+      "Earthquake": 744979192.9,
+      "Tornado": 1961212.5421954566,
+      "Coastal Flooding": 30358367.188474268,
+      "Strong Wind": 512908.06036361295,
+      "Hail": 764831.0168185609
+    }
+  },
+  "Pennsylvania": {
+    "risk_score": 25.583202915432786,
+    "sovi_score": 42.6351403379153,
+    "resl_score": 71.14496323996543,
+    "eal_total": 971134146.3998394,
+    "hazards": {
+      "Riverine Flooding": 149019159.291607,
+      "Hurricane": 286932690.3855302,
+      "Wildfire": 2399524.829639742,
+      "Earthquake": 17360147.600000013,
+      "Tornado": 74688262.42618942,
+      "Coastal Flooding": -2940091.995093605,
+      "Strong Wind": 22502303.71712574,
+      "Hail": 4865595.038655732
+    }
+  },
+  "Rhode Island": {
+    "risk_score": 32.213282502815744,
+    "sovi_score": 46.519230626372305,
+    "resl_score": 69.25530295428963,
+    "eal_total": 83051218.04513822,
+    "hazards": {
+      "Riverine Flooding": 6105692.989607281,
+      "Hurricane": 54964104.853650026,
+      "Wildfire": 77474.79774935202,
+      "Earthquake": 1671088.2999999993,
+      "Tornado": 3733302.812232196,
+      "Coastal Flooding": 2865185.8152596178,
+      "Strong Wind": 182739.02561063797,
+      "Hail": 28619.12094659341
+    }
+  },
+  "South Carolina": {
+    "risk_score": 61.571825499288025,
+    "sovi_score": 54.07522142068954,
+    "resl_score": 47.17964336939283,
+    "eal_total": 2140150410.3097157,
+    "hazards": {
+      "Riverine Flooding": 11940680.551478505,
+      "Hurricane": 1433838209.916854,
+      "Wildfire": 13682276.357080696,
+      "Earthquake": 193975888.79999986,
+      "Tornado": 68676024.4433828,
+      "Coastal Flooding": -4693114.790954569,
+      "Strong Wind": 12605376.107362844,
+      "Hail": 6146052.841567838
+    }
+  },
+  "South Dakota": {
+    "risk_score": 78.8686033753657,
+    "sovi_score": 44.753388565557145,
+    "resl_score": 64.15599211214797,
+    "eal_total": 403338574.51011944,
+    "hazards": {
+      "Riverine Flooding": 28133549.266844776,
+      "Hurricane": -4839516.0,
+      "Wildfire": 37786477.72461412,
+      "Earthquake": 660540.8000000003,
+      "Tornado": 47655572.59112652,
+      "Coastal Flooding": -2419758.0,
+      "Strong Wind": 32520330.87402945,
+      "Hail": 46510562.85860497
+    }
+  },
+  "Tennessee": {
+    "risk_score": 50.69045693718617,
+    "sovi_score": 50.630568598207155,
+    "resl_score": 40.92467950203913,
+    "eal_total": 1196392602.746562,
+    "hazards": {
+      "Riverine Flooding": 207813122.7630275,
+      "Hurricane": 11596665.540888723,
+      "Wildfire": 3303021.734004921,
+      "Earthquake": 284250208.3999999,
+      "Tornado": 155369863.16466007,
+      "Coastal Flooding": -17008299.0,
+      "Strong Wind": 22808428.50849484,
+      "Hail": 8472525.544513928
+    }
+  },
+  "Texas": {
+    "risk_score": 65.36691178101246,
+    "sovi_score": 58.956578884259365,
+    "resl_score": 25.209450820045408,
+    "eal_total": 8239703236.816385,
+    "hazards": {
+      "Riverine Flooding": 1542440833.0914552,
+      "Hurricane": 2427784911.608258,
+      "Wildfire": 229106284.98461023,
+      "Earthquake": 35610435.10000003,
+      "Tornado": 518425124.1869998,
+      "Coastal Flooding": -8131261.720062546,
+      "Strong Wind": 100092120.04841009,
+      "Hail": 579236173.9669105
+    }
+  },
+  "Utah": {
+    "risk_score": 63.43679156135732,
+    "sovi_score": 36.09228205566951,
+    "resl_score": 72.1713416651306,
+    "eal_total": 934248604.5947604,
+    "hazards": {
+      "Riverine Flooding": 26186247.798307024,
+      "Hurricane": -14318568.0,
+      "Wildfire": 190920579.9183776,
+      "Earthquake": 366713791.6999995,
+      "Tornado": 2518082.016527222,
+      "Coastal Flooding": -3989601.0,
+      "Strong Wind": 5220687.314653456,
+      "Hail": 62625.22620823636
+    }
+  },
+  "Vermont": {
+    "risk_score": 22.630192345466096,
+    "sovi_score": 34.84709859635501,
+    "resl_score": 69.27564789966237,
+    "eal_total": 50113171.086942285,
+    "hazards": {
+      "Riverine Flooding": 17665914.6262685,
+      "Hurricane": 13728672.950710712,
+      "Wildfire": 313002.8242822658,
+      "Earthquake": 2439515.8,
+      "Tornado": 1591820.9975964373,
+      "Coastal Flooding": -1929807.0,
+      "Strong Wind": 717684.6081388349,
+      "Hail": 100871.52549629845
+    }
+  },
+  "Virginia": {
+    "risk_score": 34.61995116314742,
+    "sovi_score": 41.3780526743081,
+    "resl_score": 52.601089163260504,
+    "eal_total": 961758817.4841503,
+    "hazards": {
+      "Riverine Flooding": 43543931.00167677,
+      "Hurricane": 558803191.006771,
+      "Wildfire": 7977003.615627761,
+      "Earthquake": 16494697.80000001,
+      "Tornado": 38159448.522922866,
+      "Coastal Flooding": 59761892.80139666,
+      "Strong Wind": 14760797.233813077,
+      "Hail": 7912968.032799499
+    }
+  },
+  "Washington": {
+    "risk_score": 65.23451177679273,
+    "sovi_score": 48.073580749302415,
+    "resl_score": 57.65397328933011,
+    "eal_total": 2181657262.0489197,
+    "hazards": {
+      "Riverine Flooding": 11578036.792042319,
+      "Hurricane": -35436456.0,
+      "Wildfire": 90367001.11390723,
+      "Earthquake": 1191742924.8000007,
+      "Tornado": 2769088.183801005,
+      "Coastal Flooding": 13654553.708800202,
+      "Strong Wind": 873201.4452445561,
+      "Hail": 761714.8983543826
+    }
+  },
+  "West Virginia": {
+    "risk_score": 27.242178416487313,
+    "sovi_score": 47.19221624240808,
+    "resl_score": 42.14234459886164,
+    "eal_total": 156503528.81769392,
+    "hazards": {
+      "Riverine Flooding": 58018254.57239346,
+      "Hurricane": 14593193.03799956,
+      "Wildfire": 5666338.937435587,
+      "Earthquake": 2855285.2999999956,
+      "Tornado": 5797208.644030458,
+      "Coastal Flooding": -5459454.0,
+      "Strong Wind": 4991434.80742901,
+      "Hail": 3488163.1246396825
+    }
+  },
+  "Wisconsin": {
+    "risk_score": 34.88245555061782,
+    "sovi_score": 40.105439091090375,
+    "resl_score": 86.85079214988899,
+    "eal_total": 614394126.6083355,
+    "hazards": {
+      "Riverine Flooding": 46502497.804945014,
+      "Hurricane": -7194141.2644542605,
+      "Wildfire": 3444236.8582877573,
+      "Earthquake": 2929450.4000000036,
+      "Tornado": 137867266.29255128,
+      "Coastal Flooding": -8754001.345342096,
+      "Strong Wind": 45502823.64642531,
+      "Hail": 63633784.50489051
+    }
+  },
+  "Wyoming": {
+    "risk_score": 43.975430183607806,
+    "sovi_score": 42.92456255480518,
+    "resl_score": 34.59181239456673,
+    "eal_total": 113259755.38305007,
+    "hazards": {
+      "Riverine Flooding": 4320491.307604034,
+      "Hurricane": -3199680.0,
+      "Wildfire": 15671332.42953504,
+      "Earthquake": 10956076.700000003,
+      "Tornado": 4076023.4346040976,
+      "Coastal Flooding": -1599840.0,
+      "Strong Wind": 440089.6660085719,
+      "Hail": 6402082.3638054775
+    }
+  },
+  "American Samoa": {
+    "risk_score": -9999.0,
+    "sovi_score": -9999.0,
+    "resl_score": -9999.0,
+    "eal_total": 5437525.252746,
+    "hazards": {
+      "Riverine Flooding": 77270.08505438593,
+      "Hurricane": -319968.0,
+      "Wildfire": -319968.0,
+      "Earthquake": 2998363.6999999997,
+      "Tornado": -319968.0,
+      "Coastal Flooding": 62933.01681157199,
+      "Strong Wind": -319968.0,
+      "Hail": -319968.0
+    }
+  },
+  "Guam": {
+    "risk_score": -9999.0,
+    "sovi_score": -9999.0,
+    "resl_score": -9999.0,
+    "eal_total": 73510385.5916629,
+    "hazards": {
+      "Riverine Flooding": 4154.005958629465,
+      "Hurricane": -1119888.0,
+      "Wildfire": -1119888.0,
+      "Earthquake": 48324603.1,
+      "Tornado": -1119888.0,
+      "Coastal Flooding": 98407.74312225517,
+      "Strong Wind": -1119888.0,
+      "Hail": -1119888.0
+    }
+  },
+  "Northern Mariana Islands": {
+    "risk_score": -9999.0,
+    "sovi_score": -9999.0,
+    "resl_score": -9999.0,
+    "eal_total": 13720334.65212938,
+    "hazards": {
+      "Riverine Flooding": 22739.64403895622,
+      "Hurricane": 611387.5985364125,
+      "Wildfire": -419958.0,
+      "Earthquake": 8537329.0,
+      "Tornado": -419958.0,
+      "Coastal Flooding": 29881.702202987042,
+      "Strong Wind": -419958.0,
+      "Hail": -419958.0
+    }
+  },
+  "Puerto Rico": {
+    "risk_score": -9999.0,
+    "sovi_score": 88.24968581255372,
+    "resl_score": -9999.0,
+    "eal_total": 2916393974.8320394,
+    "hazards": {
+      "Riverine Flooding": 155012432.7189246,
+      "Hurricane": 2039916609.917994,
+      "Wildfire": -18778122.0,
+      "Earthquake": 326809165.5000001,
+      "Tornado": 708661.4937511872,
+      "Coastal Flooding": 55623729.624488086,
+      "Strong Wind": 981.1110104255364,
+      "Hail": 9419.596611635612
+    }
+  },
+  "Virgin Islands": {
+    "risk_score": -9999.0,
+    "sovi_score": -9999.0,
+    "resl_score": -9999.0,
+    "eal_total": 77642137.499494,
+    "hazards": {
+      "Riverine Flooding": 176412.43476723178,
+      "Hurricane": 49759283.34033779,
+      "Wildfire": -579942.0,
+      "Earthquake": 15594224.500000004,
+      "Tornado": 5429.85070008132,
+      "Coastal Flooding": 3555607.09163671,
+      "Strong Wind": 33.515824890251075,
+      "Hail": 16.132703024435678
+    }
+  }
+}

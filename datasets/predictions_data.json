@@ -1,0 +1,6214 @@
+{
+  "2025": {
+    "Alabama": {
+      "loss": 1116835.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 409418.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 356806.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 94318.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 45457.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 44521.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 12,
+          "loss": 42901.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 37569.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 2,
+          "loss": 25955.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 20300.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 18601.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 1,
+          "loss": 15349.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 5640.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Alaska": {
+      "loss": 1533308.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Flood",
+          "month": 5,
+          "loss": 391921.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 7,
+          "loss": 340571.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 8,
+          "loss": 328294.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 171589.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 9,
+          "loss": 119846.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 6,
+          "loss": 64427.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 34718.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 12,
+          "loss": 33470.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Blizzard",
+          "month": 4,
+          "loss": 19841.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Blizzard",
+          "month": 3,
+          "loss": 13984.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 1,
+          "loss": 10791.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Blizzard",
+          "month": 2,
+          "loss": 3856.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "American Samoa": {
+      "loss": 5924654.0,
+      "fatalities": 1,
+      "events": [
+        {
+          "type": "High Surf",
+          "month": 9,
+          "loss": 1887093.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 5,
+          "loss": 1433500.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 1,
+          "loss": 940408.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 2,
+          "loss": 905559.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 11,
+          "loss": 620000.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 7,
+          "loss": 85630.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 12,
+          "loss": 15737.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 6,
+          "loss": 11469.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Rip Current",
+          "month": 4,
+          "loss": 8485.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 8,
+          "loss": 8400.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 3,
+          "loss": 6191.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 10,
+          "loss": 2182.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Arizona": {
+      "loss": 2445090.0,
+      "fatalities": 2,
+      "events": [
+        {
+          "type": "Flash Flood",
+          "month": 10,
+          "loss": 1558173.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 291341.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 156063.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Excessive Heat",
+          "month": 6,
+          "loss": 151490.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 124321.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 5,
+          "loss": 50099.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 8,
+          "loss": 42677.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 30031.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 16409.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 16382.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 11,
+          "loss": 5055.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 3049.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Arkansas": {
+      "loss": 1695480.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 394822.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 357628.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 268741.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 179166.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 128729.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 121262.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 73941.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 66303.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 40832.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 22804.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 22672.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 18580.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "California": {
+      "loss": 3404404.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 953126.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 473380.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 8,
+          "loss": 391369.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heat",
+          "month": 6,
+          "loss": 378581.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 1,
+          "loss": 366992.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 2,
+          "loss": 184944.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 174963.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 12,
+          "loss": 139537.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Excessive Heat",
+          "month": 7,
+          "loss": 121249.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 5,
+          "loss": 115228.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 60019.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 45016.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Colorado": {
+      "loss": 1691568.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Hail",
+          "month": 9,
+          "loss": 748588.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 326491.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 7,
+          "loss": 254926.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 10,
+          "loss": 171267.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 62576.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 8,
+          "loss": 60470.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 40859.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 11074.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 8414.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 3817.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 11,
+          "loss": 2908.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 178.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Connecticut": {
+      "loss": 477475.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 188996.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 10,
+          "loss": 109211.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 3,
+          "loss": 55580.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 21835.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 20189.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 20075.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 19561.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 15401.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 14895.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 6196.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 3040.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 2496.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Delaware": {
+      "loss": 591768.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Strong Wind",
+          "month": 11,
+          "loss": 352212.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 9,
+          "loss": 136903.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Coastal Flood",
+          "month": 10,
+          "loss": 31608.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 31092.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 12346.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 9996.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 6399.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 3643.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 2579.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 3,
+          "loss": 2141.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 12,
+          "loss": 1934.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 915.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "District Of Columbia": {
+      "loss": 2055089.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 1691372.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 149728.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 109152.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 80152.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 13000.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 4219.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Coastal Flood",
+          "month": 10,
+          "loss": 2704.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 1667.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 3,
+          "loss": 1357.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Frost/Freeze",
+          "month": 11,
+          "loss": 905.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 833.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Florida": {
+      "loss": 11788541.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Tropical Storm",
+          "month": 10,
+          "loss": 5522358.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Tropical Storm",
+          "month": 9,
+          "loss": 3692027.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 1125042.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 769652.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 2,
+          "loss": 211645.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 133435.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 113595.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 69437.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 1,
+          "loss": 47212.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 12,
+          "loss": 44032.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 3,
+          "loss": 32639.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 27467.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Georgia": {
+      "loss": 2154284.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Drought",
+          "month": 10,
+          "loss": 850020.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Tropical Storm",
+          "month": 9,
+          "loss": 675379.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 1,
+          "loss": 148704.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 123865.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 94674.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 2,
+          "loss": 63950.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 61721.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 34746.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 32381.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 29384.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 12,
+          "loss": 21757.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 17703.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Guam": {
+      "loss": 49749018.0,
+      "fatalities": 7,
+      "events": [
+        {
+          "type": "Hurricane (Typhoon)",
+          "month": 10,
+          "loss": 40255010.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Rip Current",
+          "month": 12,
+          "loss": 4753750.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 3,
+          "loss": 1556585.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 8,
+          "loss": 797164.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Rip Current",
+          "month": 11,
+          "loss": 598685.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 5,
+          "loss": 559778.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 4,
+          "loss": 454000.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 6,
+          "loss": 287031.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 9,
+          "loss": 180166.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 7,
+          "loss": 157667.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Rip Current",
+          "month": 2,
+          "loss": 140182.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Rip Current",
+          "month": 1,
+          "loss": 9000.0,
+          "fatalities": 1,
+          "count": 1
+        }
+      ]
+    },
+    "Hawaii": {
+      "loss": 318135.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "High Surf",
+          "month": 8,
+          "loss": 95145.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 10,
+          "loss": 66360.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 3,
+          "loss": 61912.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 11,
+          "loss": 54131.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 4,
+          "loss": 34236.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 5,
+          "loss": 2124.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 9,
+          "loss": 1591.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 1,
+          "loss": 1514.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 2,
+          "loss": 397.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 7,
+          "loss": 368.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 12,
+          "loss": 331.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Surf",
+          "month": 6,
+          "loss": 26.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Idaho": {
+      "loss": 1267701.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 617380.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 4,
+          "loss": 124571.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 95853.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 92726.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 88666.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 10,
+          "loss": 60751.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 57522.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 44631.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 42182.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 3,
+          "loss": 36757.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 11,
+          "loss": 5137.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 1525.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Illinois": {
+      "loss": 1368579.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 644134.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 161160.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 125542.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 101383.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 94504.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 66881.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 57228.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 45094.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 29029.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 16033.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 15755.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 11836.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Indiana": {
+      "loss": 805194.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 240995.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 174601.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 97332.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 66727.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 61548.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 43268.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 39586.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 28458.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 23335.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 12939.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 12473.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 3932.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Iowa": {
+      "loss": 706327.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 167754.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 142936.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 115693.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 82986.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 55407.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 36288.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 27379.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 26229.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 16350.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 10,
+          "loss": 14662.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 14202.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 1,
+          "loss": 6441.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Kansas": {
+      "loss": 481881.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 109556.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 107507.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 9,
+          "loss": 53158.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 43208.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 1,
+          "loss": 43087.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 33640.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 33497.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 18738.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 10,
+          "loss": 17183.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 11572.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 6361.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 4374.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Kentucky": {
+      "loss": 526943.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 129408.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 101600.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 3,
+          "loss": 59260.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 58683.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 47761.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 34844.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 27884.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 21863.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 16961.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Frost/Freeze",
+          "month": 10,
+          "loss": 15089.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 9569.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 4021.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Louisiana": {
+      "loss": 15662322.0,
+      "fatalities": 1,
+      "events": [
+        {
+          "type": "Excessive Heat",
+          "month": 8,
+          "loss": 8659166.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 2927536.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Tropical Storm",
+          "month": 9,
+          "loss": 2289998.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 597515.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 12,
+          "loss": 301431.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 1,
+          "loss": 297014.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 259665.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 165954.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 57432.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 53744.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 30213.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 2,
+          "loss": 22654.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Maine": {
+      "loss": 370091.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Flood",
+          "month": 4,
+          "loss": 140561.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 65105.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 51876.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 51128.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 14092.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 13957.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 9622.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 8219.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 7848.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 3,
+          "loss": 5110.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 1533.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 11,
+          "loss": 1040.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Maryland": {
+      "loss": 915417.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 577154.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 110814.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Dense Fog",
+          "month": 10,
+          "loss": 68564.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 55415.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 32745.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 24807.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 24371.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 11658.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 6325.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 1711.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 1178.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 675.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Massachusetts": {
+      "loss": 691038.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Heavy Snow",
+          "month": 3,
+          "loss": 211220.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 195515.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 56914.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 56537.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 52982.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 30917.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 24845.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 23672.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 11,
+          "loss": 10359.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 9461.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 9360.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 4,
+          "loss": 9256.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Michigan": {
+      "loss": 2093037.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 427964.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 3,
+          "loss": 385388.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 378562.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 327442.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 195765.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 11,
+          "loss": 80096.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 75413.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 68370.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 60590.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 48992.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 35135.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 1,
+          "loss": 9320.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Minnesota": {
+      "loss": 664525.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Hail",
+          "month": 9,
+          "loss": 203317.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 148587.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 89106.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 8,
+          "loss": 83329.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 68527.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 10,
+          "loss": 30102.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 18812.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 3,
+          "loss": 8879.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 6530.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 11,
+          "loss": 6390.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 637.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Extreme Cold/Wind Chill",
+          "month": 1,
+          "loss": 309.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Mississippi": {
+      "loss": 3506463.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 2157175.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 3,
+          "loss": 307904.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 306102.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 146852.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 2,
+          "loss": 137623.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 136363.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 114227.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 12,
+          "loss": 62733.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 1,
+          "loss": 53029.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 37162.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 26884.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 20409.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Missouri": {
+      "loss": 1119604.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 241616.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 240832.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 1,
+          "loss": 191585.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 152390.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 142249.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 41345.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 33058.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 26446.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 17582.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 16007.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 10354.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 6140.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Montana": {
+      "loss": 78294.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 28647.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 14613.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 7165.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 6202.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 7,
+          "loss": 6149.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 5157.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 2,
+          "loss": 4838.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 2085.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 1438.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 12,
+          "loss": 1033.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 1,
+          "loss": 709.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 258.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Nebraska": {
+      "loss": 773969.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 264736.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 160334.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 103190.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 7,
+          "loss": 72392.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 55977.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 46106.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 9,
+          "loss": 22312.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 10,
+          "loss": 16819.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 8,
+          "loss": 16216.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 13947.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 1166.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 1,
+          "loss": 774.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Nevada": {
+      "loss": 688615.0,
+      "fatalities": 3,
+      "events": [
+        {
+          "type": "High Wind",
+          "month": 6,
+          "loss": 116905.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 114588.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 86705.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 8,
+          "loss": 81091.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 79441.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 69590.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 12,
+          "loss": 53991.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 27417.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 21487.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 16189.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 5,
+          "loss": 15548.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 5663.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "New Hampshire": {
+      "loss": 500296.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Flood",
+          "month": 10,
+          "loss": 100724.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 88843.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 70910.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 4,
+          "loss": 64115.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 52637.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 32539.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 30997.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 3,
+          "loss": 22462.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 18349.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 7517.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 6796.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 11,
+          "loss": 4407.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "New Jersey": {
+      "loss": 4772655.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Strong Wind",
+          "month": 10,
+          "loss": 3400642.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 524561.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 244420.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 11,
+          "loss": 223125.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 164951.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 66256.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 52713.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 44149.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 26392.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 13726.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 9120.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 2600.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "New Mexico": {
+      "loss": 1121744.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Drought",
+          "month": 10,
+          "loss": 536786.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 277583.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 65215.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 49787.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 43701.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 7,
+          "loss": 38807.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 9,
+          "loss": 36107.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 8,
+          "loss": 31709.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 29919.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 5186.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 2,
+          "loss": 4289.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 1,
+          "loss": 2655.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "New York": {
+      "loss": 1561161.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 749102.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 218898.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 129914.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 119518.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 93440.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 11,
+          "loss": 87512.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 48949.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 29098.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 25763.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 24581.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 3,
+          "loss": 23787.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 10599.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "North Carolina": {
+      "loss": 2838945.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 1484419.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 10,
+          "loss": 707201.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 176399.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 161663.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 100248.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 61862.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 40813.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 11,
+          "loss": 39448.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 34841.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 12224.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 11230.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 8597.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Ohio": {
+      "loss": 2615281.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 707412.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 499689.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 366962.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 206675.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 183487.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 133990.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 113697.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 108995.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 98349.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 85212.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 68274.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 42539.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Oklahoma": {
+      "loss": 1343218.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Drought",
+          "month": 12,
+          "loss": 543786.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 1,
+          "loss": 205932.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 145706.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 118531.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 109910.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 10,
+          "loss": 59459.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 46293.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 2,
+          "loss": 40783.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 27707.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 27667.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 10778.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 9,
+          "loss": 6666.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Oregon": {
+      "loss": 1945993.0,
+      "fatalities": 1,
+      "events": [
+        {
+          "type": "Wildfire",
+          "month": 9,
+          "loss": 1333313.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 12,
+          "loss": 128473.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 1,
+          "loss": 128154.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 120148.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 69958.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 53904.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Frost/Freeze",
+          "month": 4,
+          "loss": 37720.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 22285.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Wildfire",
+          "month": 8,
+          "loss": 15119.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 7,
+          "loss": 14472.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 12010.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 10437.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "loss": 1037110.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 550904.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 117302.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 111276.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 74263.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 34801.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 30597.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 22655.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 21948.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 21366.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 19157.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 16430.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 16411.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Puerto Rico": {
+      "loss": 23328410.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 22703659.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 5,
+          "loss": 166717.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 11,
+          "loss": 161050.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 7,
+          "loss": 67227.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 3,
+          "loss": 61381.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 4,
+          "loss": 58170.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 12,
+          "loss": 34299.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 10,
+          "loss": 32090.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 2,
+          "loss": 27959.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 8,
+          "loss": 13444.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 1,
+          "loss": 1243.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 6,
+          "loss": 1171.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Rhode Island": {
+      "loss": 773836.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Winter Storm",
+          "month": 3,
+          "loss": 584918.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 99622.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 27227.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 23659.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 9874.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 6213.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 5004.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 4780.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 4082.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 12,
+          "loss": 3002.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 2895.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 2560.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "South Carolina": {
+      "loss": 1080966.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Flash Flood",
+          "month": 10,
+          "loss": 493262.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 235617.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 12,
+          "loss": 128720.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 87448.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 1,
+          "loss": 25790.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 2,
+          "loss": 25567.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 3,
+          "loss": 20978.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 19584.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 16005.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 11143.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 10725.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 6127.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "South Dakota": {
+      "loss": 200311.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 50407.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 32241.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 9,
+          "loss": 29928.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 26876.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 8,
+          "loss": 23299.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 14041.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 10437.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 7,
+          "loss": 7990.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Blizzard",
+          "month": 12,
+          "loss": 3437.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 1206.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 250.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 1,
+          "loss": 199.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Tennessee": {
+      "loss": 1251591.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 3,
+          "loss": 279598.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 270421.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 153640.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 2,
+          "loss": 150497.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 123377.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 102517.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 12,
+          "loss": 53163.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 10,
+          "loss": 36103.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 35243.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 21158.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 19262.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 6612.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Texas": {
+      "loss": 4005947.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Drought",
+          "month": 9,
+          "loss": 1225230.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 990145.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 313573.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 3,
+          "loss": 306698.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 10,
+          "loss": 239425.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 237431.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 213914.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 190416.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 11,
+          "loss": 100449.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 2,
+          "loss": 83151.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 12,
+          "loss": 82436.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 1,
+          "loss": 23079.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Utah": {
+      "loss": 861106.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Winter Storm",
+          "month": 1,
+          "loss": 351455.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 110044.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Drought",
+          "month": 10,
+          "loss": 109168.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 8,
+          "loss": 89946.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 67150.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 59620.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 21543.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 16634.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 13382.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 11138.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 11,
+          "loss": 6020.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 3,
+          "loss": 5006.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Vermont": {
+      "loss": 2822919.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 2424250.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 182792.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 47906.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 4,
+          "loss": 42387.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 22169.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 21434.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 10,
+          "loss": 21425.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 11,
+          "loss": 20305.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 12886.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 12322.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 3,
+          "loss": 9398.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 5645.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Virgin Islands": {
+      "loss": 269003.0,
+      "fatalities": 1,
+      "events": [
+        {
+          "type": "Flash Flood",
+          "month": 9,
+          "loss": 156628.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 11,
+          "loss": 82064.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Wildfire",
+          "month": 3,
+          "loss": 8191.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 7,
+          "loss": 6976.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Tropical Storm",
+          "month": 8,
+          "loss": 5800.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 5,
+          "loss": 4807.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 4,
+          "loss": 2685.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Coastal Flood",
+          "month": 6,
+          "loss": 1300.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 12,
+          "loss": 454.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Strong Wind",
+          "month": 1,
+          "loss": 72.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Rain",
+          "month": 10,
+          "loss": 26.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flash Flood",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Virginia": {
+      "loss": 623667.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 362584.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Frost/Freeze",
+          "month": 10,
+          "loss": 59214.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Flood",
+          "month": 11,
+          "loss": 51327.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 44060.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 24487.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 20472.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 18111.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 15442.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 12450.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 10386.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 2870.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 2264.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Washington": {
+      "loss": 8418373.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Wildfire",
+          "month": 9,
+          "loss": 4917503.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Wildfire",
+          "month": 8,
+          "loss": 1153385.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 772941.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Wildfire",
+          "month": 7,
+          "loss": 620731.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 205995.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 12,
+          "loss": 199784.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 3,
+          "loss": 145038.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 100177.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 1,
+          "loss": 93793.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 88257.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Heavy Snow",
+          "month": 2,
+          "loss": 78097.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 42672.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "West Virginia": {
+      "loss": 642890.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 168593.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 105672.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 100217.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 5,
+          "loss": 88202.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Frost/Freeze",
+          "month": 10,
+          "loss": 42490.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 11,
+          "loss": 40588.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 26084.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 3,
+          "loss": 21326.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 2,
+          "loss": 18054.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 4,
+          "loss": 16948.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 12,
+          "loss": 7660.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 7056.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Wisconsin": {
+      "loss": 765194.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Thunderstorm Wind",
+          "month": 6,
+          "loss": 292510.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 8,
+          "loss": 131293.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 4,
+          "loss": 101624.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 76319.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 9,
+          "loss": 71978.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Thunderstorm Wind",
+          "month": 7,
+          "loss": 37003.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 1,
+          "loss": 14539.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 10,
+          "loss": 14426.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 3,
+          "loss": 10645.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Weather",
+          "month": 11,
+          "loss": 9227.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 2,
+          "loss": 3440.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Winter Storm",
+          "month": 12,
+          "loss": 2190.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Wyoming": {
+      "loss": 196053.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Hail",
+          "month": 8,
+          "loss": 69570.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 9,
+          "loss": 37133.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 36367.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 29327.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 8685.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 7,
+          "loss": 7974.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 4,
+          "loss": 2461.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 1906.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 3,
+          "loss": 1701.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 2,
+          "loss": 542.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 1,
+          "loss": 237.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 12,
+          "loss": 150.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "North Dakota": {
+      "loss": 607560.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Winter Storm",
+          "month": 4,
+          "loss": 143735.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 6,
+          "loss": 112183.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 5,
+          "loss": 89496.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 9,
+          "loss": 66220.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 8,
+          "loss": 65193.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Hail",
+          "month": 7,
+          "loss": 52821.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 10,
+          "loss": 44472.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Blizzard",
+          "month": 3,
+          "loss": 13002.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Extreme Cold/Wind Chill",
+          "month": 1,
+          "loss": 10438.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "High Wind",
+          "month": 11,
+          "loss": 5065.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Blizzard",
+          "month": 12,
+          "loss": 4112.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Extreme Cold/Wind Chill",
+          "month": 2,
+          "loss": 823.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Atlantic South": {
+      "loss": 13166.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 10,
+          "loss": 11024.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 2,
+          "loss": 1767.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 145.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 131.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 75.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 16.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 5.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 3.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Gulf Of Mexico": {
+      "loss": 37747.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 33176.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 2335.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 1426.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 269.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 2,
+          "loss": 148.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 122.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 1,
+          "loss": 118.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 88.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 10,
+          "loss": 32.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 21.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 12.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Hawaii Waters": {
+      "loss": 0.0,
+      "fatalities": 2,
+      "events": [
+        {
+          "type": "Waterspout",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 6,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 7,
+          "loss": 0.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Lake Erie": {
+      "loss": 1845.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 1687.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 117.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 31.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 10.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Lake Huron": {
+      "loss": 26.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 26.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Hail",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Lake Michigan": {
+      "loss": 14241.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 10,
+          "loss": 11169.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 1049.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 926.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 489.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 367.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 121.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 115.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 5.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Lake St Clair": {
+      "loss": 782.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 782.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "E Pacific": {
+      "loss": 8592.0,
+      "fatalities": 3,
+      "events": [
+        {
+          "type": "Waterspout",
+          "month": 1,
+          "loss": 4376.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 4,
+          "loss": 2500.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 3,
+          "loss": 695.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 2,
+          "loss": 606.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 12,
+          "loss": 215.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 11,
+          "loss": 200.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 7,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 1,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Atlantic North": {
+      "loss": 382.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 100.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 98.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 48.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 25.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 25.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 20.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 10,
+          "loss": 19.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 1,
+          "loss": 17.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 17.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 9.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 12,
+          "loss": 4.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Lake Ontario": {
+      "loss": 2833.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Waterspout",
+          "month": 10,
+          "loss": 1087.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 854.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 547.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 345.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "St Lawrence R": {
+      "loss": 2112.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 1778.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 334.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Lake Superior": {
+      "loss": 1978.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 1869.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 81.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 28.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 7,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Gulf Of Alaska": {
+      "loss": 4409.0,
+      "fatalities": 0,
+      "events": [
+        {
+          "type": "Marine High Wind",
+          "month": 1,
+          "loss": 2500.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 12,
+          "loss": 1909.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine High Wind",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 6,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 7,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Waterspout",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Thunderstorm Wind",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        }
+      ]
+    },
+    "Guam Waters": {
+      "loss": 0.0,
+      "fatalities": 4,
+      "events": [
+        {
+          "type": "None Observed",
+          "month": 1,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 2,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 3,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 4,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 5,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 6,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 7,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 8,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 9,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "None Observed",
+          "month": 10,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Tropical Depression",
+          "month": 11,
+          "loss": 0.0,
+          "fatalities": 0,
+          "count": 1
+        },
+        {
+          "type": "Marine Strong Wind",
+          "month": 12,
+          "loss": 0.0,
+          "fatalities": 4,
+          "count": 1
+        }
+      ]
+    }
+  }
+}
